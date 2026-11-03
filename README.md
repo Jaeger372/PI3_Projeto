@@ -238,4 +238,7 @@ A aplicação suporta dois modos:
 
 ---
 
+<img width="1117" height="816" alt="image" src="https://github.com/user-attachments/assets/db265706-7ebd-4154-bbcc-52a2f9c4c806" />
+
+
 *Trilha · Projeto Integrado 3*
